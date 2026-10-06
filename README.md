@@ -65,5 +65,5 @@ sudo nginx -t
 sudo systemctl reload nginx
 ```
 
-Keep the Flask app running, then visit http://<your-server>/upload/.
+Keep the Flask app running, then visit `http://<your-server>/upload/`.
 
